@@ -1,0 +1,25 @@
+{
+  "language_name": "正體中文",
+
+  "main.name": "模組同步器",
+  "main.active": "啟用選項",
+  "main.select_path": "Minecraft \"mods\" 資料夾路徑:",
+  "main.sync": "同步模組",
+  "main.syncer": "正在同步",
+  "main.failed": "失敗",
+  "main.succeed": "完成",
+  "main.force_update": "强制更新",
+
+  "sync.check_update": "檢查更新",
+  "sync.download": "下載更新檔",
+  "sync.extract": "解壓縮更新檔案",
+  "sync.clean": "清理舊模組",
+  "sync.sync_to_mods": "同步新模組 \"{0}\"",
+  "sync.access_denied": "檔案拒絕訪問\nMinecraft運行中?",
+  "sync.clean_cache": "清理下載快取文件",
+
+  "type.basic": "基本模組",
+  "type.addon": "可選附加模組",
+  "type.optimization": "性能優化模組",
+  "type.shader": "著色器依賴項"
+}

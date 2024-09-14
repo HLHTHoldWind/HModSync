@@ -1,0 +1,25 @@
+{
+  "language_name": "English(US)",
+
+  "main.name": "Mod Synchronizer",
+  "main.active": "Active",
+  "main.select_path": "Minecraft \"mods\" folder:",
+  "main.sync": "Sync mods",
+  "main.syncer": "Synchronizing",
+  "main.failed": "Failed",
+  "main.succeed": "Succeed",
+  "main.force_update": "Force update",
+
+  "sync.check_update": "Check update",
+  "sync.download": "Downloading update",
+  "sync.extract": "Extracting downloaded files",
+  "sync.clean": "Cleaning older mods",
+  "sync.sync_to_mods": "Synchronizing new mods \"{0}\"",
+  "sync.access_denied": "ACCESS DENIED. IS MINECRAFT STILL RUNNING?",
+  "sync.clean_cache": "Cleaning download cache",
+
+  "type.basic": "Basic mods",
+  "type.addon": "Addon mods",
+  "type.optimization": "Optimization addons",
+  "type.shader": "Shader addons"
+}

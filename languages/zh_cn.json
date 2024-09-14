@@ -1,0 +1,25 @@
+{
+  "language_name": "简体中文",
+
+  "main.name": "模组同步器",
+  "main.active": "启用项",
+  "main.select_path": "Minecraft \"mods\" 文件夹位置:",
+  "main.sync": "同步模组",
+  "main.syncer": "同步中",
+  "main.failed": "失败",
+  "main.succeed": "成功",
+  "main.force_update": "强制更新",
+
+  "sync.check_update": "检查更新",
+  "sync.download": "下载更新",
+  "sync.extract": "解压更新文档",
+  "sync.clean": "清理老旧模组",
+  "sync.sync_to_mods": "同步新模组 \"{0}\"",
+  "sync.access_denied": "资源访问被拒绝\nMinecraft是否仍在运行?",
+  "sync.clean_cache": "清理下载缓存",
+
+  "type.basic": "基础模组（必须）",
+  "type.addon": "附加模组",
+  "type.optimization": "优化组件（需开启光影组件）",
+  "type.shader": "光影组件"
+}
