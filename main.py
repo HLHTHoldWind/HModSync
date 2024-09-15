@@ -8,7 +8,7 @@ def main():
         logs = os.listdir('logs')
         if len(logs) > 20:
             while len(logs) > 20:
-                os.remove(logs.pop(0))
+                os.remove(f"logs\\{logs.pop(0)}")
         root = Application()
         root.mainloop()
     except Exception as exception:
